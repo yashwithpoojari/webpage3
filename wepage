@@ -2,8 +2,9 @@
  <head>
  <tittle> create webpage </tittle>
  </head>
- <body>
-        
+ <body bgcolor="red">
+ <img src =1.jpg>
+        <p> hello sharathkumar </p>
         
 </body>
 </html>
